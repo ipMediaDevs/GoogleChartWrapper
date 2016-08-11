@@ -1,5 +1,7 @@
 # GoogleChartWrapper
 
+[![Build Status](https://travis-ci.org/ipMediaDevs/GoogleChartWrapper.svg?branch=master)](https://travis-ci.org/ipMediaDevs/GoogleChartWrapper)
+
 ## Introduction
 
 GoogleChartWrapper is a quick clean api over the [Google Image Chart Service](https://developers.google.com/chart/image/).
