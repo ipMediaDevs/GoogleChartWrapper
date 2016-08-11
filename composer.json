@@ -14,8 +14,8 @@
 	    "bin-dir": "bin"
     },
     "autoload": {
-	    "psr-4": {
-		    "IpMedia\\": "src/IpMedia"
-	    }
+        "psr-0": {
+            "IpMedia\\": "src/IpMedia"
+        }
     }
 }
