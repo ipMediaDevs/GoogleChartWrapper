@@ -1,0 +1,21 @@
+{
+    "name": "ipmedia/google-chart-wrapper",
+    "description": "A PHP wrapper on top of http://chart.apis.google.com/chart",
+    "require-dev": {
+        "phpspec/phpspec": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Catalin Pirvu",
+            "email": "catalin.pirvu@gmail.com"
+        }
+    ],
+    "config": {
+	    "bin-dir": "bin"
+    },
+    "autoload": {
+	    "psr-4": {
+		    "IpMedia\\": "src/IpMedia"
+	    }
+    }
+}
