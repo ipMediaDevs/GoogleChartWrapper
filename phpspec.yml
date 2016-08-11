@@ -1,0 +1,5 @@
+suites:
+        main:
+                namespace:  IpMedia
+                psr4_prefix:  IpMedia
+                src_path:  src/IpMedia 
